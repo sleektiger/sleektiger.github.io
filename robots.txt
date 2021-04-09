@@ -1,0 +1,4 @@
+User-agent: *
+Host: sleektiger.github.io
+Sitemap: http://sleektiger.github.io/sitemap.xml
+Disallow: 
